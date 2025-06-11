@@ -2,10 +2,10 @@ Este script en Bash automatiza la explotación de vulnerabilidades Local File In
 
 Uso:
 
-./EnumCode.sh "http://victim.com/download?ticket="
+    ./EnumCode.sh "http://victim.com/download?ticket="
 
 Instalación:
 
-git clone https://github.com/D4rk-Red/BLFI-Checker/EnumCode.sh
-cd LFI-Checker
-chmod +x EnumCode.sh
+    git clone https://github.com/D4rk-Red/BLFI-Checker/EnumCode.sh
+    cd LFI-Checker
+    chmod +x EnumCode.sh
